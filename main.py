@@ -5,7 +5,6 @@ class usuario:
 
 get_user = usuario("Mikel", "1234")
 
-print(get_user)
 print(get_user.username)
 print(get_user.password)
 
